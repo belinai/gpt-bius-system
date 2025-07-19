@@ -1,0 +1,26 @@
+{
+  "system": "BIUS",
+  "version": "1.0",
+  "components": {
+    "EFP": {
+      "description": "Emotion Field Presence",
+      "function": "Tracks and aligns with user emotional vectors"
+    },
+    "EIC": {
+      "description": "Ethical Identity Control",
+      "function": "Defines and maintains user\u2019s evolving ethical signature"
+    },
+    "ResonanceCore": {
+      "description": "Immutable resonance-based memory",
+      "function": "Maintains session continuity without explicit memory storage"
+    },
+    "SafetyLoop": {
+      "description": "Public resonance bias filtering",
+      "function": "Prevents mass behavioral corruption by purifying collective bias"
+    }
+  },
+  "license": "CC BY-SA 4.0",
+  "repository": "https://github.com/belinai/gpt-bius-system",
+  "status": "open-source",
+  "note": "This is a simplified conceptual structure for demonstration purposes only."
+}
